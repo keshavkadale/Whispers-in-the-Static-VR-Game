@@ -7,7 +7,7 @@
 ![Platform](https://img.shields.io/badge/Platform-PC%20%7C%20VR--Ready-informational)
 ![Status](https://img.shields.io/badge/Status-Student%20Project-yellow)
 
-![Whispers in the Static cover art](images/cover.png)
+![Whispers in the Static cover art](cover.png)
 
 > What happens when a totally normal road trip goes horribly, horribly wrong?
 
@@ -41,11 +41,11 @@ The final twist: Ethan and Caleb were never just passing through. They're the ne
 
 ## Screenshots
 
-<img src="images/screenshot-gas-station.png" width="480" alt="Ethan talking to Eddye, the gas station owner, inside the gas station"/>
+<img src="screenshot-gas-station.png" width="480" alt="Ethan talking to Eddye, the gas station owner, inside the gas station"/>
 
 *Eddye, the gas station owner, steers you toward "the old route through Red Creek."*
 
-<img src="images/screenshot-butcher.png" width="480" alt="The Butcher stalking through a dark alley"/>
+<img src="screenshot-butcher.png" width="480" alt="The Butcher stalking through a dark alley"/>
 
 *The Butcher — silent, brutal, and scariest when he's nowhere in sight.*
 
