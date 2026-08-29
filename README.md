@@ -141,12 +141,4 @@ Every build asked the same questions: Does this feel right? Is the lighting cree
 - A stress system (e.g. an audible heartbeat under pressure)
 - A full VR hardware pass beyond the XR Device Simulator
 
-## Credits
 
-Designed and built by **Keshav Sanjay Kadale**
-Course: *Virtual and Augmented Reality Systems (CS560)*
-Instructor: **Dr. Samit Bhattacharya**
-
----
-
-*This project was built as a course submission. If you plan to share the repository publicly, consider adding a [license](https://choosealicense.com/) file.*
